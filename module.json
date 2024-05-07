@@ -12,5 +12,14 @@
     "lang": "en",
     "name": "English",
     "path": "lang/en.json"
-  }]
+  }],
+  "packFolders": [
+    {
+      "name": "Altus",
+		  "color": "#193974",
+      "packs": [
+        "Ancestry's of Altus"
+      ]
+    }
+  ]
 }
