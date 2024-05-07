@@ -1,0 +1,16 @@
+{
+  "id": "dnd4e-altus",
+  "title": "DnD4e Altus",
+  "description": "Adds support and content for the Altus setting to the DnD4e System.",
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules":["main.js"],
+  "languages":[{
+    "lang": "en",
+    "name": "English",
+    "path": "lang/en.json"
+  }]
+}
