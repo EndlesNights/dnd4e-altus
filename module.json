@@ -2,7 +2,7 @@
 	"id": "dnd4e-altus",
 	"title": "DnD4e Altus",
 	"description": "Adds support and content for the Altus setting to the DnD4e System.",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11"
@@ -35,5 +35,8 @@
       "system": "dnd4e",
       "flags": {}
     }
-  ]
+  ],
+	"url": "https://github.com/EndlesNights/dnd4e-altus",
+	"manifest": "https://raw.githubusercontent.com/EndlesNights/dnd4e-altus/main/module.json",
+	"download": "https://github.com/EndlesNights/dnd4e-altus/archive/1.0.0.zip"
 }
